@@ -10,9 +10,9 @@ client.on("messageCreate", message => {
 ```
 
 <h3> Contact </h3>
-```bash
+```json
 Discord: xFloppa#0420
-gmail: floppa.strunz1234@gmail.com
+gmail: floppa.strunz1234@gmail.co
 ```
 <h6></h6>
 

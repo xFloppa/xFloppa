@@ -16,13 +16,10 @@ gmail: floppa.strunz1234@gmail.com
 ```
 
 <h2> Experience <img src="https://preview.redd.it/m3qe1oyy6m551.jpg?auto=webp&s=05f4188c43087041c9090b2aa1e90aea3d50a706" width="50"></h2>
-<h4> Game Engines </h3>
+<h3> Languages and skills and Game Engines </h3>
 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-<h4> Languages and skills </h3>
-
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

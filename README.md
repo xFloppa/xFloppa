@@ -41,8 +41,5 @@ gmail: floppa.strunz1234@gmail.com
 ![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23323330.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=%#31A8FF)
 ![AdobePremiere](https://img.shields.io/badge/Adobe%20Premiere-%23323330.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=%#31A8FF)
 ![AdobeAfterEffects](https://img.shields.io/badge/Adobe%20After%20Effects-%23323330.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=%#31A8FF)
-
-<h4> Stacks </h4>
-
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)

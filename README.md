@@ -10,9 +10,9 @@ client.on("messageCreate", message => {
 ```
 
 ## Contact
-```json
+```yml
 Discord: xFloppa#0420
-gmail: floppa.strunz1234@gmail.co
+gmail: floppa.strunz1234@gmail.com
 ```
 
 <h2> Experience <img src="https://media.giphy.com/media/fSGrpj2wJynDwgftc7/giphy.gif" width="50"></h2>

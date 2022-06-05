@@ -14,7 +14,6 @@ client.on("messageCreate", message => {
 Discord: xFloppa#0420
 gmail: floppa.strunz1234@gmail.co
 ```
-<h6></h6>
 
 <h2> Experience <img src="https://media.giphy.com/media/fSGrpj2wJynDwgftc7/giphy.gif" width="50"></h2>
 <h4> Game Engines </h3>

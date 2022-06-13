@@ -1,12 +1,18 @@
 <h2> Hi, I'm floppa! <img src="https://i.imgur.com/5juKboy.gif" width="50"></h2>
 
-```js
-client.on("messageCreate", message => {
-  if (message.content == "I am Italian and I come from Calabria, I am starting to learn many programming languages at best, trying to deepen my knowledge to have a detailed culture in this field, I want to try to find the satisfaction of having the knowledge suitable for the future of tomorrow and having that information always available. here you will find my info !!") {
-    message.react("💻")
-  }
-})
+```zsh
+xFloppa@xFloppa: ~ $ sh xfloppa.sh
+```
 
+```csharp
+🎴 Website: Coming soon..
+🎈 Discord: xFloppa#0420 
+```
+```html
+<a href='https://emojitool.com/it/flag-for-italy'>🇮🇹 Country: Italy</a>
+```
+```yml
+who I am?: I am Italian and I come from Calabria, I am starting to learn many programming languages at best, trying to deepen my knowledge to have a detailed culture in this field, I want to try to find the satisfaction of having the knowledge suitable for the future of tomorrow and having that information always available. here you will find my info !!
 ```
 
 ## Contact

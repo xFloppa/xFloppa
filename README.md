@@ -16,7 +16,8 @@ who I am?: I am Italian and I come from Calabria, I am starting to learn many pr
 ## Contact
 ```yml
 Discord: xFloppa#0420
-gmail: floppa.strunz1234@gmail.com
+telegram: @xFloppaa
+gmail: floppa.floppese@gmail.com
 ```
 
 <h2> Experience <img src="https://preview.redd.it/m3qe1oyy6m551.jpg?auto=webp&s=05f4188c43087041c9090b2aa1e90aea3d50a706" width="50"></h2>
@@ -44,3 +45,22 @@ gmail: floppa.strunz1234@gmail.com
 ![AdobeAfterEffects](https://img.shields.io/badge/Adobe%20After%20Effects-%23323330.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=%#31A8FF)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+## Minecraft Staff Experience
+```yml
+PixelBloody: Owner and Dev
+MainGames: Moderator
+LightMC: Admin
+StarkonMC: Moderator
+BoltMine: Senior Moderator
+Ropilonia: Developer and Senior Admin and Grafic Designer
+SpaceMC: Grafic Designer
+LunaticMC: Grafic Designer - Developer - Admin
+SwordnessPvP: Supporter
+AtlasMC: Owner
+RealDiamond: Supporter
+JullyCraft: Helper
+AdventureMine: Helper
+StoraxMC: Helper
+MagicPvP (Now): Owner and Full Stack Developer and Full Stack Designer
+```

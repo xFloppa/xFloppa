@@ -64,3 +64,5 @@ AdventureMine: Helper
 StoraxMC: Helper
 MagicPvP (Now): Owner and Full Stack Developer and Full Stack Designer
 ```
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=xFloppa  &theme=radical)

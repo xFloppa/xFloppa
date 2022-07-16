@@ -66,4 +66,4 @@ MagicPvP (Now): Owner and Full Stack Developer and Full Stack Designer
 ```
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xFloppa&theme=radical)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xFloppa&theme=tokyonight)]
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xFloppa&theme=radical)]

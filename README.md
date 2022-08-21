@@ -62,6 +62,7 @@ RealDiamond: Helper Supporter
 JullyCraft: Helper Supporter
 AdventureMine: Helper SS Verified
 StoraxMC: Helper SS Verified
+ObsMC: Sr.Admin and Manager
 MagicPvP: Owner and Full Stack Developer and Full Stack Designer
 AquariusMC (Now): Helper Supporter
 ```

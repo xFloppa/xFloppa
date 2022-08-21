@@ -49,20 +49,21 @@ gmail: floppa.floppese@gmail.com
 ## Minecraft Staff Experience
 ```yml
 PixelBloody: Owner and Dev
-MainGames: Moderator
-LightMC: Admin
-StarkonMC: Moderator
-BoltMine: Senior Moderator
+MainGames: Moderator SS Verified
+LightMC: Admin SS Verified
+StarkonMC: Moderator SS Verified
+BoltMine: Sr.Moderator Supporter
 Ropilonia: Developer and Senior Admin and Grafic Designer
 SpaceMC: Grafic Designer
-LunaticMC: Grafic Designer - Developer - Admin
-SwordnessPvP: Supporter
+LunaticMC: Grafic Designer - Developer - Admin SS Verified
+SwordnessPvP: Helper Supporter
 AtlasMC: Owner
-RealDiamond: Supporter
-JullyCraft: Helper
-AdventureMine: Helper
-StoraxMC: Helper
-MagicPvP (Now): Owner and Full Stack Developer and Full Stack Designer
+RealDiamond: Helper Supporter
+JullyCraft: Helper Supporter
+AdventureMine: Helper SS Verified
+StoraxMC: Helper SS Verified
+MagicPvP: Owner and Full Stack Developer and Full Stack Designer
+AquariusMC: Helper Supporter
 ```
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xFloppa&theme=radical)

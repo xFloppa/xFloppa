@@ -65,7 +65,7 @@ AdventureMine: Helper SS Verified
 StoraxMC: Helper SS Verified
 ObsMC: Sr.Admin and Manager
 MagicPvP: Owner and Full Stack Developer and Full Stack Designer
-AquariusMC (Now): Helper Supporter >> SS Verified
+AquariusMC (Now): Helper Supporter >> SS Verified >> Mod SS Verified
 ```
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xFloppa&theme=radical)

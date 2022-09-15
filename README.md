@@ -58,14 +58,15 @@ SpaceMC: Grafic Designer
 LunaticMC: Grafic Designer - Developer - Admin SS Verified
 SwordnessPvP: Helper Supporter
 AtlasMC: Owner
-RealDiamond: Helper Supporter
-JullyCraft: Helper Supporter
+RealDiamond: Supporter
+JullyCraft: Supporter
 GravityMC: Helper SS Verified
 AdventureMine: Helper SS Verified
 StoraxMC: Helper SS Verified
 ObsMC: Sr.Admin and Manager
 MagicPvP: Owner and Full Stack Developer and Full Stack Designer
-AquariusMC (Now): Helper Supporter >> SS Verified >> Mod SS Verified
+AquariusMC: Mod SS Verified
+WarAccademy (Now): Supporter
 ```
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xFloppa&theme=radical)

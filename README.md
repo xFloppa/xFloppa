@@ -67,7 +67,7 @@ ObsMC: Sr.Admin and Manager
 MagicPvP: Owner and Full Stack Developer and Full Stack Designer
 AquariusMC: Mod SS Verified
 WarAccademy : Supporter
-Ninfea : Helper SS
+Ninfea(now) : Helper SS
 ```
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xFloppa&theme=radical)

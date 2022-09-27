@@ -48,8 +48,6 @@ gmail: floppa.floppese@gmail.com
 
 ## Minecraft Staff Experience
 ```yml
-PixelBloody: Owner and Dev
-MainGames: Moderator SS Verified
 LightMC: Admin SS Verified
 StarkonMC: Moderator SS Verified
 BoltMine: Sr.Moderator Supporter
@@ -57,12 +55,14 @@ Ropilonia: Developer and Senior Admin and Grafic Designer
 SpaceMC: Grafic Designer
 LunaticMC: Grafic Designer - Developer - Admin SS Verified
 SwordnessPvP: Helper Supporter
-AtlasMC: Owner
 RealDiamond: Supporter
 JullyCraft: Supporter
 GravityMC: Helper SS Verified
 AdventureMine: Helper SS Verified
+PixelBloody: Owner and Dev
+MainGames: Moderator SS Verified
 StoraxMC: Helper SS Verified
+AtlasMC: Owner
 ObsMC: Sr.Admin and Manager
 MagicPvP: Owner and Full Stack Developer and Full Stack Designer
 AquariusMC: Mod SS Verified

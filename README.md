@@ -57,6 +57,7 @@ LunaticMC: Grafic Designer - Developer - Admin SS Verified
 SwordnessPvP: Helper Supporter
 RealDiamond: Supporter
 JullyCraft: Supporter
+IrisPvP: Builder and Grafic Designer
 GravityMC: Helper SS Verified
 AdventureMine: Helper SS Verified
 PixelBloody: Owner and Dev
@@ -66,8 +67,8 @@ AtlasMC: Owner
 ObsMC: Sr.Admin and Manager
 MagicPvP: Owner and Full Stack Developer and Full Stack Designer
 AquariusMC: Mod SS Verified
-WarAccademy : Supporter
-Ninfea(now) : Helper SS
+WarAccademy: Supporter
+Ninfea(now): Helper SS
 ```
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xFloppa&theme=radical)

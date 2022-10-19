@@ -15,7 +15,7 @@ who I am?: I am Italian and I come from Calabria, I am starting to learn many pr
 
 ## Contact
 ```yml
-Discord: xFloppa#0420
+Discord: xFloppa#7499
 telegram: @xFloppaa
 gmail: floppa.floppese@gmail.com
 ```

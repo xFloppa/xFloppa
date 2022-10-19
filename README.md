@@ -6,7 +6,7 @@ xFloppa@xFloppa: ~ $ sh xfloppa.sh
 
 ```csharp
 🎴 Website: Coming soon..
-🎈 Discord: xFloppa#0420 
+🎈 Discord: xFloppa#7499 
 🚩 Country: Calabria
 ```
 ```yml

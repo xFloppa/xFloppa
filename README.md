@@ -46,31 +46,6 @@ gmail: floppa.floppese@gmail.com
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-## Minecraft Staff Experience
-```yml
-LightMC: Admin SS Verified
-StarkonMC: Moderator SS Verified
-BoltMine: Sr.Moderator Supporter
-Ropilonia: Developer and Senior Admin and Grafic Designer
-SpaceMC: Grafic Designer
-LunaticMC: Grafic Designer - Developer - Admin SS Verified
-SwordnessPvP: Helper Supporter
-RealDiamond: Supporter
-JullyCraft: Supporter
-IrisPvP: Builder and Grafic Designer
-GravityMC: Helper SS Verified
-AdventureMine: Helper SS Verified
-PixelBloody: Owner and Dev
-MainGames: Moderator SS Verified
-StoraxMC: Helper SS Verified
-AtlasMC: Owner
-ObsMC: Sr.Admin and Manager
-MagicPvP: Owner and Full Stack Developer and Full Stack Designer
-AquariusMC: Mod SS Verified
-WarAccademy: Supporter
-Ninfea: Helper SS
-ObsMC(Now): Owner
-```
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xFloppa&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xFloppa&theme=radical)

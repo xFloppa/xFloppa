@@ -17,7 +17,6 @@ who I am?: I am Italian and I come from Calabria, I am starting to learn many pr
 ```yml
 Discord: xFloppa#7499
 telegram: @xFloppaa
-gmail: floppa.floppese@gmail.com
 ```
 
 <h2> Experience <img src="https://preview.redd.it/m3qe1oyy6m551.jpg?auto=webp&s=05f4188c43087041c9090b2aa1e90aea3d50a706" width="50"></h2>

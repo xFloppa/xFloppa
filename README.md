@@ -5,7 +5,6 @@ xFloppa@xFloppa: ~ $ sh xfloppa.sh
 ```
 
 ```csharp
-🎴 Website: Coming soon..
 🎈 Discord: @xFloppa
 🚩 Country: Calabria
 ```
@@ -20,7 +19,7 @@ telegram: @xFloppaa
 ```
 
 <h2> Experience <img src="https://preview.redd.it/m3qe1oyy6m551.jpg?auto=webp&s=05f4188c43087041c9090b2aa1e90aea3d50a706" width="50"></h2>
-<h3> Languages and skills and Game Engines </h3>
+<h3> Languages ​​and Skills and Game Engines I've been dealing with over time. </h3>
 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)

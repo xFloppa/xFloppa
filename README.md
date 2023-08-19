@@ -43,6 +43,7 @@ telegram: @xFloppaa
 ![AdobeAfterEffects](https://img.shields.io/badge/Adobe%20After%20Effects-%23323330.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=%#31A8FF)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xFloppa&theme=radical)

@@ -1,21 +1,15 @@
 <h2> Hi, I'm floppa! <img src="https://i.imgur.com/5juKboy.gif" width="50"></h2>
+<div>
+  <a href="https://github.com/xFloppa"><img src="https://img.shields.io/badge/-Github-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/Mateo-tem" alt="GitHub Badge"/></a>
+  <a href="https://discord.com/users/587188493713932298"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=5568f2&link=https://discord.com/users/587188493713932298" alt="Discord Badge"/></a>
+<a href="https://t.me/xFloppaa"><img src="https://img.shields.io/badge/-Telegram-000000?style=flat-square&labelColor=000000&logo=telegram&logoColor=white&link=https://t.me/xFloppaa" alt="Telegram Badge"/></a>
+</div>
 
 ```zsh
 xFloppa@xFloppa: ~ $ sh xfloppa.sh
 ```
-
-```csharp
-🎈 Discord: @xFloppa
-🚩 Country: Calabria
-```
 ```yml
 who I am?: I am Italian and I come from Calabria, I am starting to learn many programming languages at best, trying to deepen my knowledge to have a detailed culture in this field, I want to try to find the satisfaction of having the knowledge suitable for the future of tomorrow and having that information always available. here you will find my info !!
-```
-
-## Contact
-```yml
-Discord: @xFloppa
-telegram: @xFloppaa
 ```
 
 <h2> Experience <img src="https://preview.redd.it/m3qe1oyy6m551.jpg?auto=webp&s=05f4188c43087041c9090b2aa1e90aea3d50a706" width="50"></h2>
@@ -45,6 +39,11 @@ telegram: @xFloppaa
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+<h2>📊 Stats:</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xFloppa&theme=radical)
+<a href="[https://github.com/Mateo-tem](https://github.com/xFloppa)"><img src="https://komarev.com/ghpvc/?username=xFloppa" alt="Profile Views"/></a>
+
+| <img alt="Discord Status" src="https://lanyard.cnrad.dev/api/587188493713932298?bg=1f1f1f&borderRadius=5px"> | <img src="https://github-readme-stats.vercel.app/api?username=xFloppa&show_icons=true&theme=radical" /> |
+|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xFloppa&theme=radical)
